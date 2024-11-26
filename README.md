@@ -1,4 +1,4 @@
-# Enhancing the Performance of GraphRec-based Recommendation System Using Language Models
+# Topic Modeling
 project
 
 ## Purpose
